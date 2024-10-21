@@ -1,0 +1,1 @@
+this project will be a basic recipe page to practice the knowledge that I have been taught so far about HTML in odin project.
